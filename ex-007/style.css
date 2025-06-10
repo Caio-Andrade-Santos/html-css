@@ -1,0 +1,21 @@
+@charset "UTF-8";
+h1{
+    /* esse é um shorthande de como definir detalhes da fonte*/
+    font:bolder 3em arial,sans-serif;
+    text-align: center;
+    color: white;
+}
+h2{
+    font-size: 2em;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image:linear-gradient(to right,black,brown);
+}
+p{
+    color: white;
+}
