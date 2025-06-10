@@ -1,4 +1,4 @@
 # html-css
 Aqui estão os exercícios do curso em video
 
-<p><a href="ex-011/caixas.html">Clique aqui</p>
+<a href="https://github.com/Caio-Andrade-Santos/html-css/tree/main/ex-001/index.html">Clique aqui para a abrir o ex-001 </a>
